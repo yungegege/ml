@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine-Learning
 * [In English](https://github.com/Jack-Cherish/Machine-Learning/blob/master/README-eng.md "悬停显示")<br>
 
@@ -140,3 +141,7 @@
 ### 代码
 
 * [1.树回归](https://github.com/Jack-Cherish/Machine-Learning/blob/master/Regression%20Trees/regTrees.py "悬停显示")
+=======
+# ml
+机器学习实战代码
+>>>>>>> 22d634a62870e67970ccc4bca19a0b72a364da24
